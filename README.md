@@ -1,6 +1,6 @@
 # Ruby on Rails Application
 
-This is to record my progress with Ruby on Rails following the [Ruby on Rails](https://www.railstutorial.org/) by Michael Hartl Book 
+This is to record my progress with Ruby on Rails following the [Ruby on Rails](https://www.railstutorial.org/) by Michael Hartl Book. 
 
 ## License
 
