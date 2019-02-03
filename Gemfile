@@ -68,3 +68,9 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "minitest-reporters", "~> 1.3"
 
 gem "ansi", "~> 1.5"
+
+gem "bootstrap-sass", "~> 3.4"
+
+gem "sassc-rails", "~> 2.1"
+
+gem "sass-rails", "~> 5.0"
