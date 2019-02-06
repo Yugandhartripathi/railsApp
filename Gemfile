@@ -79,3 +79,5 @@ gem "sassc-rails", "~> 2.1"
 gem "sass-rails", "~> 5.0"
 
 gem "jquery-rails", "~> 4.3"
+
+gem "rails-controller-testing", "~> 1.0"
