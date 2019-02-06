@@ -77,3 +77,5 @@ gem "bootstrap-sass", "~> 3.4"
 gem "sassc-rails", "~> 2.1"
 
 gem "sass-rails", "~> 5.0"
+
+gem "jquery-rails", "~> 4.3"
